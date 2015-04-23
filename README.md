@@ -1,5 +1,5 @@
 # Ruby RSpec Example with Car Race
-Quick example of Car and Race classes with RSpec behavioral testing.  Fill `lib` and 'spec' with code to build a car race, by validating tests
+Quick example of Car and Race classes with RSpec behavioral testing.  Fill `lib` and 'spec' with code to build a car race, by validating tests.
 
 You should have:
 
